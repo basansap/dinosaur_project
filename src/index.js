@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import GameContainer from "./components/GameContainer";
+import "./css/main.css";
 
 ReactDOM.render(
     <div className="Basanta">
-      <App />
-      <App />
+      <GameContainer/>
     </div>,
   document.getElementById('root')
 );

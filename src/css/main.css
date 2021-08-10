@@ -1,0 +1,9 @@
+.GameContainer {
+    height: 40vh;
+    width: 80vw;
+    background-color: azure;
+    border: 1px solid black;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+}
