@@ -7,7 +7,7 @@ class GameContainer extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            buttonClicked : 1,
+            buttonClicked : 1
         }
     }
     handleButtonClicked = (buttonClickedValue) => {
